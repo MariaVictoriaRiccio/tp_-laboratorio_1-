@@ -4,7 +4,7 @@
 #include <string.h>
 #include "ArrayEmployees.h"
 
-#define TAM 5
+#define TAM 1000
 
 int main()
 {
