@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1599955051 source:c:\users\toia\desktop\tp_laboratorio_1\tp_laboratorio_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funcionesCalculadora.h"
+
+1599954962 source:c:\users\toia\desktop\tp_laboratorio_1\tp_laboratorio_1\funcionescalculadora.c
+	<stdio.h>
+
+1599956893 c:\users\toia\desktop\tp_laboratorio_1\tp_laboratorio_1\funcionescalculadora.h
+
+1599963233 source:c:\users\toia\desktop\tp_laboratorio_1\tp 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funcionesCalculadora.h"
+
+1599962745 c:\users\toia\desktop\tp_laboratorio_1\tp 1\funcionescalculadora.h
+
+1599963161 source:c:\users\toia\desktop\tp_laboratorio_1\tp 1\funcionescalculadora.c
+	<stdio.h>
+

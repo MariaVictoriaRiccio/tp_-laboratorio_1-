@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1601910821 source:c:\users\toia\desktop\proyecto laboratorio 1\tp22\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1601928483 source:c:\users\toia\desktop\tp22\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+
+1601928487 source:c:\users\toia\desktop\tp22\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"ArrayEmployees.h"
+
+1601928476 c:\users\toia\desktop\tp22\arrayemployees.h
+
+1601921066 source:c:\users\toia\desktop\tp22\validacion.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+	"validacion.h"
+	<ctype.h>
+
+1601921066 c:\users\toia\desktop\tp22\validacion.h
+
+1601929539 source:c:\users\toia\desktop\tp_laboratorio_1\tp 2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+
+1601929625 c:\users\toia\desktop\tp_laboratorio_1\tp 2\arrayemployees.h
+
+1601928487 source:c:\users\toia\desktop\tp_laboratorio_1\tp 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"ArrayEmployees.h"
+

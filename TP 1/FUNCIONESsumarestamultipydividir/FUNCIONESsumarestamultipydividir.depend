@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1600023951 source:c:\users\toia\desktop\tp_laboratorio_1\funcionessumarestamultipydividir\main.c
+	<stdio.h>
+	<stdlib.h>
+
