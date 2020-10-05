@@ -3,8 +3,7 @@
 #include <ctype.h>
 #include "funcionesCalculadora.h"
 
-int main()
-{
+int main(){
     float x;
     float y;
     int flagMenu=0;
