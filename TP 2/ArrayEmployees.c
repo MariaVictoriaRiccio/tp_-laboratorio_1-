@@ -3,7 +3,6 @@
 #include<string.h>
 #include "ArrayEmployees.h"
 
-
 int initEmployees(Employee list[], int tam)
 {
     int error=-1;
